@@ -1,1 +1,2 @@
-Hello, Hexlet! How are you?
+no code no pain no pain no gain
+experiment with amend
